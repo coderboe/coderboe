@@ -1,7 +1,7 @@
 ## Hello 👋, I am LU TAW
 
 <!--
-Boelutt/Boelutt is a ✨ _special_ ✨ repository because its README.md (this file) appears on your GitHub profile.
+coderboe is a ✨ _special_ ✨ repository because its README.md (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 🛠️👨‍💻
 -->
-#✨Welcome to my  Portfolio!✨
+
+# ✨ Welcome to my  Portfolio!✨
 
  I'm an ICT student working toward becoming a Red Hat Certified Architect.  
 
