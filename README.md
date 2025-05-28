@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 🛠️👨‍💻
 -->
 
-# ✨ Welcome to my  Portfolio!✨
+## ✨ Welcome to my  Portfolio! ✨
 
  I'm an ICT student working toward becoming a Red Hat Certified Architect.  
 
